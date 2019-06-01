@@ -1,1 +1,11 @@
+# ignore vscode settings
 /.vscode
+
+# ignore cached python
+*.pyc
+
+# ignore archives
+*.tar.gz
+
+# ignore egg info
+*.egg-info
